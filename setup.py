@@ -1,6 +1,6 @@
 from setuptools import setup
 
-with open("README.md", "r") as f:
+with open("/Users/paurushkumar/Desktop/webscapy/README.md", "r") as f:
     readme = f.read()
 
 setup(

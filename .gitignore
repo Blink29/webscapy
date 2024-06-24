@@ -3,4 +3,5 @@ selpy.egg-info
 dist
 build
 test.py
+venv
 *.egg-info
